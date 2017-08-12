@@ -1,0 +1,57 @@
+body {
+	background: url("nathan-anderson-158541.jpg");
+	background-size: 100%;
+	background-position: bottom;
+}
+
+
+html {
+	height: 100%;
+}
+
+nav {
+	background: black;
+	opacity: .6;
+	font-family: 'Megrim', cursive;
+	font-weight: 900;
+}
+
+#title {
+	font-family: 'Megrim', cursive, Georgia, Garamond, Times, serif;
+	font-size: 60px;
+	padding: 20px;
+}
+
+hr {
+	width: 70%;
+	border: 0;
+  height: 1px;
+  opacity: .4;
+}
+
+.btn {
+	margin: 20px;
+}
+
+.fa-twitter {
+	color:#0084b4;
+	font-size: 16px;
+}
+
+.bg1 {
+	background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	color: white;
+	letter-spacing: 1.2;
+	margin-top: 100px;
+	padding-bottom: 50px;
+}
+
+.content {
+	font-family: 'Julius Sans One', sans-serif, Georgia, Garamond, Times, serif;
+	font-size: 22px;
+	padding: 24px;
+	max-width: 35em;
+	margin: 0 auto;
+}
